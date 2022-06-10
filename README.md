@@ -1,8 +1,8 @@
 # RSA-Lite: Review Sentiment Analysis-Lite
-RSA-Lite is an Natural Language Processing (NLP) model that was build with TensorFlow API's. The objective of the RSA-Lite model is to predict whether a review is a positive or negative feedback. RSA-Lite can be integreted with other models to create a new perpose, namely, recommendation system.
+RSA-Lite is a Natural Language Processing (NLP) model built with TensorFlow API. The objective of the RSA-Lite model is to predict whether a review is positive or negative feedback. RSA-Lite can be integrated with other models to create a new objective (e.g. Recommendation System with Sentiment Analysis).
 
 ## Model Metrics
-[metrics have not been measured]
+[model metrics have not been measured]
 
 ## Instalation
 ```
