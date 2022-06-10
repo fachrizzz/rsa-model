@@ -1,7 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fachrizzz/rsa-model/blob/master/RSA_Lite.ipynb)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/fachrizzz/rsa-model)](https://github.com/fachrizzz/rsa-model)
 [![GitHub repo size](https://img.shields.io/github/repo-size/fachrizzz/rsa-model)](https://github.com/fachrizzz/rsa-model)
-[![GitHub all releases](https://img.shields.io/github/downloads/fachrizzz/rsa-model/total?color=green)](https://github.com/fachrizzz/rsa-model)
 [![GitHub language count](https://img.shields.io/github/languages/count/fachrizzz/rsa-model)](https://github.com/fachrizzz/rsa-model)
 
 # RSA-Lite: Review Sentiment Analysis-Lite
