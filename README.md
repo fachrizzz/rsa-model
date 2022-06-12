@@ -7,10 +7,6 @@
 
 RSA-Lite is a Natural Language Processing (NLP) model built with TensorFlow API. The objective of the RSA-Lite model is to predict whether a review is positive or negative feedback. RSA-Lite can be integrated with other models to create a new objective (e.g. Recommendation System with Sentiment Analysis).
 
-## Model Metrics
-
-[model metrics have not been measured]
-
 ## Instalation
 
 To install RSA-Lite, please run the following script in the terminal.
